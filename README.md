@@ -4,7 +4,7 @@ Esse repositório é referente a AV5 da matéria de TASI 1, contendo um script P
 
 ## 😭 Observação importante!
 Professor, eu simplesmente não consegui executar meu código pois meu PC não tem memória RAM suficiente pra isso, aparece essa mensagem:
-ollama._types.ResponseError: model requires more system memory (5.6 GiB) than is available (4.3 GiB) (status code: 500)
+- ollama._types.ResponseError: model requires more system memory (5.6 GiB) than is available (4.3 GiB) (status code: 500).
 Eu testei 4 modelos diferentes (llama3, mistral, nomic/mini e phi3:mini) mas meu PC não tanka nenhum deles, então não tenho nenhum vídeo de demonstração e não sei quais erros tem na execução do script... Mas como eu tive muita dificuldade em fazer essa atividade e ralei muito, estou entregando aqui!
 Espero que entenda D=
 
